@@ -17,10 +17,10 @@ Trabajo Final de Algoritmia y Programación UdeA 2026-1
 ## Integrantes
 
 ### Pedro Ballestero
-- Soy una persona responsable y enfocada que siempre busca aprender cosas nuevas, por eso el paso por la programación me emociona mucho porque me va a ayudar a descubrir y desarrollar habilidades que antes no tenia
+- Soy una persona responsable y enfocada que siempre busca aprender cosas nuevas, por eso el paso por la programación me emociona mucho porque me va a ayudar a descubrir y desarrollar habilidades que antes no tenia como lo es el analizar los algoritmos para que un sistema funcione correctamneten, al igual que la creacion de estos. siempre busco adaptarme a cualquier tipo de trabajos y actividad para asi mejorar cada dia.
 
 ### Edwin Avila
-- Soy una 
+- 
 
 ---
 
