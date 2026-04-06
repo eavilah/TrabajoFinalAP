@@ -217,4 +217,9 @@ Beneficios
 
 ### Edwin Ávila
 - Inversión por semana (10 horas): $72.950  
-- Inversión total del trabajo (16 semanas): $1.167.200  
+- Inversión total del trabajo (16 semanas): $1.167.200
+
+### Inversión grupal
+- Inversión por semana (20 horas): $145.900  
+- Inversión total del trabajo (16 semanas): $2.334.400  
+
