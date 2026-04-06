@@ -32,10 +32,10 @@
 ## Integrantes
 
 ### Pedro Ballestero
-- Soy una persona responsable y enfocada que siempre busca aprender cosas nuevas, por eso el paso por la programación me emociona mucho porque me va a ayudar a descubrir y desarrollar habilidades que antes no tenia como lo es el analizar los algoritmos para que un sistema funcione correctamneten, al igual que la creacion de estos. siempre busco adaptarme a cualquier tipo de trabajos y actividad para asi mejorar cada dia.
+- Soy una persona responsable y enfocada que siempre busca aprender cosas nuevas, por eso el paso por la programación me emociona mucho porque me va a ayudar a descubrir y desarrollar habilidades que antes no tenia como lo es el analizar los algoritmos para que un sistema funcione correctamente, al igual que la creacion de estos. siempre busco adaptarme a cualquier tipo de trabajos y actividad para asi mejorar cada dia.
 
 ### Edwin Avila
-- 
+- Soy una persona comprometida, disciplinada y con gran disposicion para aprender. Me caracterizo por ser organizado, perseverante y trabajar con dedicacion en cada proyecto que realizo, siempre buscando mejorar y aportar de manera positiva en cada oportunidad. 
 
 ---
 
