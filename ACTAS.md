@@ -30,9 +30,9 @@ El equipo se compromete a crear un programa en Python que permita la gestión de
 
 **En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-• 01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336**
+• 01/03/2026   *Pedro David Ballestero* 
 
-• 01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
+• 01/03/2026   *Edwin Hernando Ávila* 
 
 
 ---
@@ -89,9 +89,9 @@ El grupo se reunirá al menos una vez por semana para revisar avances, discutir 
 
 **En constancia de aceptación de lo aquí estipulado, los integrantes firman la presente acta:**
 
-•	01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336**
+•	01/03/2026   *Pedro David Ballestero* 
 
-•	01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
+•	01/03/2026   *Edwin Hernando Ávila* 
 
 
 ---
@@ -152,7 +152,7 @@ Definir las tareas específicas asignadas a cada integrante del grupo, establece
 
 **En constancia de aceptación de lo estipulado, los integrantes firman la presente acta:**
 
-01/03/2026   *Pedro David Ballestero* --> **C.C: 1069475336** 
+01/03/2026   *Pedro David Ballestero* 
 
-01/03/2026   *Edwin Hernando Ávila* --> **C.C: 1101260281**
+01/03/2026   *Edwin Hernando Ávila* 
 
